@@ -6,7 +6,7 @@
     <title>Jenkins page</title>
     <style>
         body{
-            background-color: aqua;
+            background-color: green;
         }
 
         h1{
@@ -15,13 +15,13 @@
             text-decoration: underline;
         }
         p{
-            color: black;
+            color: white;
         }
     </style>
 </head>
 <body>
-    <h1>shoaib</h1>
-    <p>this is sample page for deploying in tomcat server</p>
+    <h1>rahamathulla</h1>
+    <p>this is first trail in fork</p>
     <p></p>
     <p></p>
     <p></p>
